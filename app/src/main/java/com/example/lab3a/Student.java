@@ -1,4 +1,4 @@
-package com.example.listviewdemo;
+package com.example.lab3a;
 
 public class Student {
     private String Fname = " ";
